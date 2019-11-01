@@ -1,0 +1,13 @@
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\obj\Debug\DMDCamControl.MainForm.resources
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\obj\Debug\DMDCamControl.Properties.Resources.resources
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\obj\Debug\DMDCamControl.csproj.GenerateResource.cache
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\obj\Debug\DMDCamControl.csproj.CoreCompileInputs.cache
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\bin\Debug\uc480DotNet.dll
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\bin\Debug\uc480_64.dll
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\bin\Debug\uc480_tools_64.dll
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\bin\Debug\DMDCamControl.exe.config
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\bin\Debug\DMDCamControl.exe
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\bin\Debug\DMDCamControl.pdb
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\obj\Debug\DMDCamControl.exe
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\obj\Debug\DMDCamControl.pdb
+C:\Users\rbg94965\Documents\DMDSoftware\Vialux\DMDCamControl\bin\Debug\alp4395.dll
